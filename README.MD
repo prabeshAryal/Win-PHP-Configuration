@@ -1,6 +1,3 @@
-Here's a **GitHub README** for your PowerShell script:
-
----
 
 # 💻 Auto-Setup Script for Scoop, VS Code, and PHP  
 
@@ -48,7 +45,3 @@ Your VS Code is powered successfully with PHP.
 ```
 
 Enjoy your **fully configured** VS Code environment with PHP support! 🚀  
-
----
-
-This README provides clear instructions and highlights the script’s functionality. Let me know if you'd like any changes! 😊
